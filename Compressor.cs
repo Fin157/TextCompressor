@@ -1,5 +1,8 @@
 ﻿namespace TextCompressor;
 
+/// <summary>
+/// A class that holds functionality to convert strings between their RLE and regular representations.
+/// </summary>
 static class Compressor
 {
     /// <summary>
